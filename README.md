@@ -1,8 +1,8 @@
 # Tui Alailima
 
-Construction professional building AI tools for the industry I know best.
+Builder and founder. Construction background, AI tools — for the field and beyond.
 
-I work in heavy equipment operations and concrete construction — USACE and NAVFAC projects — and I build software to solve the problems I see every day on the job.
+I work in heavy equipment operations and construction project coordination — USACE and NAVFAC projects — and I build software to solve the problems I see every day on the job.
 
 ## What I'm Building
 
@@ -13,7 +13,7 @@ I work in heavy equipment operations and concrete construction — USACE and NAV
 
 ## Background
 
-- Construction | Heavy Equipment | Civil Operations
+- Construction | Heavy Equipment | Project Coordination
 - Hawaii
 - Founder, AIGA LLC
 
