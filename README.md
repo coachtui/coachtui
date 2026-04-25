@@ -13,7 +13,7 @@ I work in heavy equipment operations and concrete construction — USACE and NAV
 
 ## Background
 
-- Construction | Heavy Equipment | Concrete Operations
+- Construction | Heavy Equipment | Civil Operations
 - Hawaii
 - Founder, AIGA LLC
 
