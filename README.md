@@ -1,24 +1,34 @@
-# Tui Alailima
+# Tui — Civil Superintendent Building Construction Technology
 
-Builder and founder. Construction background, AI tools — for the field and beyond.
+Founder of AIGA LLC and creator of BedrockOS, a field-first operating platform for heavy civil and infrastructure construction.
 
-I work in heavy equipment operations and construction project coordination — USACE and NAVFAC projects — and I build software to solve the problems I see every day on the job.
+I build software from the perspective of someone who has spent years running work in the field — crews, equipment, safety, schedules, inspections, documentation, and daily execution.
 
-## What I'm Building
+## Current Focus
 
-- **Fix** — AI diagnostic tool for heavy equipment operators. Troubleshoot machine issues on the spot, reduce mechanic callouts.
-- **Operator** — AI education platform for learning to work with AI effectively.
-- **QC Plan Generator** — Automated 01 45 00 compliance documentation for USACE and NAVFAC construction projects *(in development)*
-- **AIGA** — Construction ops platform: crew scheduling, equipment inspections, maintenance workflows.
+- BedrockOS — construction operations platform for heavy civil and infrastructure contractors
+- Field operations workflows: manpower planning, daily coordination, and 3-week lookaheads
+- Equipment operations: inspections, maintenance, diagnostics, and mechanic work orders
+- Safety operations: AHA/JHA workflows, hazard reporting, incidents, SDS, and compliance documentation
+- Project intelligence: AI-assisted plan, spec, submittal, and document review
 
-## Background
+## Why I’m Building
 
-- Construction | Heavy Equipment | Project Coordination
-- Hawaii
-- Founder, AIGA LLC
+Construction teams do not usually fail from lack of effort. They lose time through fragmented systems, delayed information, scattered documentation, and coordination gaps between the field, shop, office, and leadership.
 
-## Reach Me
+BedrockOS is being built to close that gap.
 
-- [tuialailima.com](https://tuialailima.com)
-- [@TuiAlailima](https://x.com/TuiAlailima)
-- tui@tuialailima.com
+## Tech Stack
+
+- Next.js / React
+- Supabase
+- PostgreSQL
+- Vercel
+- TypeScript
+- AI-assisted document and workflow intelligence
+
+## Links
+
+- AIGA LLC: https://aigaai.com
+- BedrockOS: https://aigaai.com/bedrockos
+- LinkedIn: https://www.linkedin.com/in/tui-alailima/
